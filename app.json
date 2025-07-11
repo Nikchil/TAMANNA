@@ -1,7 +1,7 @@
 {
-    "name": "sᴏɴᴀʟɪ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/fdkxi4.jpg",
+    "logo": "https://files.catbox.moe/p6n668.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -33,12 +33,12 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "Go @PURVI_AI_BOT And type /id and get The user id of user whom you would like to add as OWNER.",
+        "description": "Go @SILENTHRAX_BOT And type /id and get The user id of user whom you would like to add as OWNER.",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @KING_STRING_SESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @SILENTHRAX_BOT on Telegram.",
         "value": "",
         "required": true
       },
